@@ -99,7 +99,7 @@
 
 <h3 align="left">📈 GitHub Stats:</h3>
 <p align="center">
-  <img src="[![GitHub Streak](https://streak-stats.demolab.com/?user=vigneshwaran-dev)](https://git.io/streak-stats)" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=vigneshwaran-dev" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshwaran-dev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
