@@ -99,7 +99,9 @@
 
 <h3 align="left">📈 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github.com/vigneshwaran-dev/github-readme-streak-stats?tab=readme-ov-file" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=vigneshwaran-dev&theme=highcontrast" alt="GitHub Streak" />
+  </a>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshwaran-dev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
